@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/sec-insider",
   "title": "Sec Insider",
   "description": "SEC Forms 3/4/5 — insider transactions, indexed so the question can be",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/sec-insider",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-sec-insider",

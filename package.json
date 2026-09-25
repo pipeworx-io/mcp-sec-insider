@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sec-insider",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SEC Forms 3/4/5 — insider transactions, indexed so the question can be",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-1cee224f5cb9dcad0a2a842de848db711a7b306292c7046a533911020157174c",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }
