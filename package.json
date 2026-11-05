@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sec-insider",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "SEC Forms 3/4/5 — insider transactions, indexed so the question can be inverted.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "sec-insider",
     "gatewaySlug": "sec-insider",
-    "sourceHash": "v1-f45aa6b25e1a10d72be2686e7793b1e804b45c7f287fb87b0afe6c08b1241e8c",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-d431c63804af89d77b83160451f77bf37ffa6587fadd9c2de2031160cd470f07",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
